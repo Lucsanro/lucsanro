@@ -20,3 +20,9 @@
   <a href="mailto:lucca.rocha@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lucsanro_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucsanro/lucsanro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucsanro/lucsanro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucsanro/lucsanro/output/github-contribution-grid-snake.svg">
+</picture>
