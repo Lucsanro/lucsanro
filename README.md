@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID
-- 🌱 Estudando C# e SQL
+- 🌱 Estudando C# e SQL e bancos de dados relacionais
 
 
 ### Principais linguagens
