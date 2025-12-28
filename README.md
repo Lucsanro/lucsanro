@@ -1,8 +1,8 @@
-## Olá! 🖐🏽 Eu sou o Lucca
+## Olá! 🖐🏽 Eu sou o Lucca 😁
 
 
 - 🔭 Hoje trabalho como analista de suporte
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID
 - 🌱 Estudando C# e SQL
 
 <div style="display: inline_block"><br>
