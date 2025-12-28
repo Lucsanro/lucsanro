@@ -1,9 +1,12 @@
-## Olá! 🖐🏽 Eu sou o Lucca 😁
+## Olá! Eu sou o Lucca 😁
 
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID
 - 🌱 Estudando C# e SQL
+
+
+### Principais linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -14,6 +17,8 @@
 </div>
   
   ##
+
+### Conecte-se comigo
  
 <div> 
   <a href="https://www.linkedin.com/in/lucsanro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
